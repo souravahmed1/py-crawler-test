@@ -1,0 +1,1841 @@
+walk took 0.018698930740356445 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/test
+walk took 0.00013899803161621094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/dist
+walk took 0.0013041496276855469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-runtime
+walk took 0.0006008148193359375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/queue-microtask
+walk took 0.00019216537475585938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-matcher-utils
+walk took 0.0003371238708496094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/callsites
+walk took 0.00018787384033203125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fast-safe-stringify
+walk took 0.0002980232238769531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/tapable
+walk took 0.0006489753723144531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/test-exclude
+walk took 0.0002586841583251953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/formidable
+walk took 0.0019068717956542969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/sourcemap-codec
+walk took 0.0004820823669433594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/bser
+walk took 0.0003209114074707031 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/reusify
+walk took 0.0004432201385498047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-docblock
+walk took 0.00029015541076660156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/destroy
+walk took 0.00015997886657714844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jsesc
+walk took 0.0010068416595458984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/pirates
+walk took 0.00030493736267089844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types
+walk took 0.007277011871337891 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/stack-utils
+walk took 0.0005319118499755859 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/express-serve-static-core
+walk took 0.0004391670227050781 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/istanbul-reports
+walk took 0.0003731250762939453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/eslint-scope
+walk took 0.00039887428283691406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/range-parser
+walk took 0.0002989768981933594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/parse-json
+walk took 0.0001659393310546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/supertest
+walk took 0.00016498565673828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/express
+walk took 0.0001571178436279297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/prettier
+walk took 0.0004658699035644531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/babel__template
+walk took 0.0002739429473876953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/yargs-parser
+walk took 0.00015807151794433594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/qs
+walk took 0.0001647472381591797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/superagent
+walk took 0.00015735626220703125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/istanbul-lib-report
+walk took 0.00016617774963378906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/semver
+walk took 0.0014069080352783203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/istanbul-lib-coverage
+walk took 0.0002231597900390625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/body-parser
+walk took 0.00015878677368164062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/babel__generator
+walk took 0.0001571178436279297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/babel__traverse
+walk took 0.0002682209014892578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/cookiejar
+walk took 0.00015497207641601562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/serve-static
+walk took 0.0001671314239501953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/mime
+walk took 0.0002028942108154297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/yargs
+walk took 0.00036406517028808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/eslint
+walk took 0.0004899501800537109 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/estree
+walk took 0.00017690658569335938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/node/ts4.8/timers
+walk took 0.0001010894775390625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@types/node/ts4.8/stream
+walk took 0.00014519691467285156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/node-abort-controller
+walk took 0.0004458427429199219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/globals
+walk took 0.00019693374633789062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@xtuc
+walk took 0.0008330345153808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/lodash
+walk took 0.013979196548461914 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/lodash/fp
+walk took 0.009920120239257812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/diff-sequences
+walk took 0.0003070831298828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/detect-newline
+walk took 0.00019288063049316406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/browserslist
+walk took 0.0004189014434814453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/istanbul-lib-source-maps
+walk took 0.00039887428283691406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/symbol-observable
+walk took 0.0005178451538085938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/process-nextick-args
+walk took 0.00019621849060058594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/shebang-regex
+walk took 0.00018286705017089844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/hexoid
+walk took 0.00031304359436035156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/v8-compile-cache-lib
+walk took 0.00020194053649902344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/path-is-absolute
+walk took 0.00015783309936523438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/asap
+walk took 0.0002429485321044922 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/json-parse-even-better-errors
+walk took 0.0001900196075439453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/stack-utils
+walk took 0.0009000301361083984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/supports-hyperlinks
+walk took 0.0006451606750488281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-worker
+walk took 0.001071929931640625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/toidentifier
+walk took 0.00018715858459472656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/path-type
+walk took 0.00017595291137695312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/wcwidth
+walk took 0.0004067420959472656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/make-dir
+walk took 0.0006337165832519531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/lodash.memoize
+walk took 0.00015592575073242188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/mimic-fn
+walk took 0.00017905235290527344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/strip-ansi
+walk took 0.00017380714416503906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/tsconfig-paths
+walk took 0.002321958541870117 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/content-type
+walk took 0.00017905235290527344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/react-is
+walk took 0.00041484832763671875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/pkg-dir
+walk took 0.00017189979553222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/natural-compare-lite
+walk took 0.00013494491577148438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/istanbul-reports
+walk took 0.0028290748596191406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/flatted
+walk took 0.0007050037384033203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/import-local
+walk took 0.0002779960632324219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/chardet
+walk took 0.00038814544677734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/makeerror
+walk took 0.00026798248291015625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/os-tmpdir
+walk took 0.0001537799835205078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ms
+walk took 0.0001518726348876953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/strip-final-newline
+walk took 0.00015687942504882812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/content-disposition
+walk took 0.0001761913299560547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack-sources
+walk took 0.0008282661437988281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/call-bind
+walk took 0.0003979206085205078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/methods
+walk took 0.0001811981201171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/acorn-import-assertions
+walk took 0.0004749298095703125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/prelude-ls
+walk took 0.0003821849822998047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@jest
+walk took 0.005364894866943359 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@jest/globals
+walk took 0.0002570152282714844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@jest/test-sequencer
+walk took 0.00025582313537597656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@jest/types
+walk took 0.0003809928894042969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@jest/core/node_modules
+walk took 9.393692016601562e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/node-releases
+walk took 0.0004570484161376953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/escape-string-regexp
+walk took 0.0001571178436279297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/grapheme-splitter
+walk took 0.0003108978271484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/create-require
+walk took 0.00019812583923339844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fs-monkey
+walk took 0.0006809234619140625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/strip-json-comments
+walk took 0.00018715858459472656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/lru-cache
+walk took 0.0001621246337890625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/imurmurhash
+walk took 0.0004401206970214844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/bl
+walk took 0.0014638900756835938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/tmpl
+walk took 0.0002532005310058594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint-scope
+walk took 0.0007328987121582031 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/type-fest
+walk took 0.0011529922485351562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/commander
+walk took 0.0002961158752441406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/punycode
+walk took 0.00018477439880371094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/require-directory
+walk took 0.00022101402282714844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/proxy-addr
+walk took 0.00017523765563964844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/depd
+walk took 0.0003829002380371094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/core-util-is
+walk took 0.0002510547637939453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/chrome-trace-event
+walk took 0.00032520294189453125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ci-info
+walk took 0.00022602081298828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/text-table
+walk took 0.0006010532379150391 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rimraf
+walk took 0.00019502639770507812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/escalade
+walk took 0.0004458427429199219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/node-fetch
+walk took 0.0003180503845214844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/range-parser
+walk took 0.0001811981201171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fast-json-stable-stringify
+walk took 0.0007300376892089844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/error-ex
+walk took 0.00015306472778320312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit
+walk took 0.005026102066040039 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core
+walk took 0.004228830337524414 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules
+walk took 0.005735158920288086 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/tslib
+walk took 0.0006737709045410156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/ajv-formats
+walk took 0.0005929470062255859 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/json-schema-traverse
+walk took 0.000492095947265625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs
+walk took 0.005968809127807617 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/migrations
+walk took 0.0002620220184326172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/webSocket
+walk took 0.0001671314239501953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/operators
+walk took 0.006842136383056641 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/util
+walk took 0.002173900604248047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/internal-compatibility
+walk took 0.00018024444580078125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/internal
+walk took 0.003925800323486328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/internal/operators
+walk took 0.0072498321533203125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/internal/util
+walk took 0.002383708953857422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/internal/scheduler
+walk took 0.00102996826171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/internal/symbol
+walk took 0.0002932548522949219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/internal/testing
+walk took 0.0004949569702148438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/internal/observable/dom
+walk took 0.00042700767517089844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/scheduler
+walk took 0.0003457069396972656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/symbol
+walk took 0.0002760887145996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/testing
+walk took 0.00016999244689941406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/fetch
+walk took 0.0002422332763671875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm5
+walk took 0.004143953323364258 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm5/webSocket
+walk took 0.00013113021850585938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm5/operators
+walk took 0.0001201629638671875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm5/internal-compatibility
+walk took 0.0001227855682373047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm5/internal/operators
+walk took 0.004686117172241211 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm5/internal/util
+walk took 0.0015997886657714844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm5/internal/scheduler
+walk took 0.0008711814880371094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm5/internal/symbol
+walk took 0.00023818016052246094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/add
+walk took 0.006925106048583984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/add/observable
+walk took 0.0019741058349609375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm2015
+walk took 0.004372119903564453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm2015/webSocket
+walk took 0.00013208389282226562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm2015/operators
+walk took 0.00012493133544921875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm2015/internal-compatibility
+walk took 0.0001327991485595703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm2015/internal/operators
+walk took 0.004796266555786133 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm2015/internal/util
+walk took 0.0016200542449951172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm2015/internal/scheduler
+walk took 0.0007171630859375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/_esm2015/internal/symbol
+walk took 0.0002238750457763672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/observable
+walk took 0.003715038299560547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/observable/dom
+walk took 0.0003609657287597656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/operator
+walk took 0.006680727005004883 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/ajax
+walk took 0.00018405914306640625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/bundles
+walk took 0.0001742839813232422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/webSocket
+walk took 0.00012302398681640625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/operators
+walk took 0.002348184585571289 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/util
+walk took 0.0007801055908203125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/internal-compatibility
+walk took 0.00013303756713867188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/internal
+walk took 0.005846977233886719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/scheduler
+walk took 0.0001728534698486328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/symbol
+walk took 0.00014495849609375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/testing
+walk took 0.00012803077697753906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/fetch
+walk took 0.00011992454528808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/add
+walk took 0.0033211708068847656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/rxjs/src/observable
+walk took 0.0017611980438232422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/source-map
+walk took 0.0006730556488037109 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/ajv/dist
+walk took 0.004148960113525391 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/ajv/dist/vocabularies
+walk took 0.00482487678527832 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/ajv/dist/vocabularies/dynamic
+walk took 0.0004258155822753906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/ajv/dist/vocabularies/core
+walk took 0.0002830028533935547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/ajv/dist/vocabularies/unevaluated
+walk took 0.0002880096435546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node_modules/ajv/dist/types
+walk took 0.0002810955047607422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/core/node
+walk took 0.0007307529449462891 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics-cli
+walk took 0.003531932830810547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/tasks
+walk took 0.0010259151458740234 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/tools
+walk took 0.0007102489471435547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/tslib
+walk took 0.0006921291351318359 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/migrations
+walk took 0.0002491474151611328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/webSocket
+walk took 0.00017189979553222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/operators
+walk took 0.007174015045166016 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/util
+walk took 0.0025053024291992188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/internal-compatibility
+walk took 0.00019693374633789062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/internal
+walk took 0.003975868225097656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/internal/operators
+walk took 0.007030963897705078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/internal/util
+walk took 0.0023751258850097656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/internal/scheduler
+walk took 0.0010349750518798828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/internal/symbol
+walk took 0.0002949237823486328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/internal/testing
+walk took 0.0004949569702148438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/internal/observable/dom
+walk took 0.0004239082336425781 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/scheduler
+walk took 0.0003459453582763672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/symbol
+walk took 0.0002849102020263672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/testing
+walk took 0.0002257823944091797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/fetch
+walk took 0.0002791881561279297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm5
+walk took 0.00431513786315918 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm5/webSocket
+walk took 0.000125885009765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm5/operators
+walk took 0.00012421607971191406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm5/internal-compatibility
+walk took 0.00013113021850585938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm5/internal/operators
+walk took 0.005030155181884766 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm5/internal/util
+walk took 0.0022869110107421875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm5/internal/scheduler
+walk took 0.000904083251953125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm5/internal/symbol
+walk took 0.0002617835998535156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/add
+walk took 0.009240865707397461 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/add/observable
+walk took 0.002974987030029297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm2015
+walk took 0.007453203201293945 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm2015/webSocket
+walk took 0.00015091896057128906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm2015/operators
+walk took 0.00015997886657714844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm2015/internal-compatibility
+walk took 0.00019097328186035156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm2015/internal/operators
+walk took 0.005229949951171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm2015/internal/util
+walk took 0.0020809173583984375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm2015/internal/scheduler
+walk took 0.0011110305786132812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/_esm2015/internal/symbol
+walk took 0.0003800392150878906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/observable
+walk took 0.004135847091674805 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/observable/dom
+walk took 0.00040602684020996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/operator
+walk took 0.006957054138183594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/ajax
+walk took 0.00021386146545410156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/bundles
+walk took 0.0001800060272216797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src
+walk took 0.005774021148681641 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/webSocket
+walk took 0.00014710426330566406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/operators
+walk took 0.002529144287109375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/util
+walk took 0.0008199214935302734 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/internal-compatibility
+walk took 0.0001327991485595703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/internal
+walk took 0.006173849105834961 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/scheduler
+walk took 0.0001888275146484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/symbol
+walk took 0.00014901161193847656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/testing
+walk took 0.00012421607971191406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/fetch
+walk took 0.0001220703125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/add
+walk took 0.004143953323364258 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@angular-devkit/schematics/node_modules/rxjs/src/observable/dom
+walk took 0.0002830028533935547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/balanced-match
+walk took 0.00021505355834960938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/path-exists
+walk took 0.0001857280731201172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/resolve
+walk took 0.007500886917114258 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/bytes
+walk took 0.0001800060272216797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/memfs
+walk took 0.0009562969207763672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/char-regex
+walk took 0.00018596649169921875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@eslint
+walk took 0.001360177993774414 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint-utils
+walk took 0.0006527900695800781 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-cli
+walk took 0.0008437633514404297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/object-hash
+walk took 0.00027298927307128906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/base64-js
+walk took 0.0002040863037109375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/glob-to-regexp
+walk took 0.00017404556274414062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/watchpack
+walk took 0.00040602684020996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/parse-json
+walk took 0.0001952648162841797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cjs-module-lexer
+walk took 0.0004029273986816406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs
+walk took 0.007366180419921875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/mapped-types
+walk took 0.0006551742553710938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core
+walk took 0.004801034927368164 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/middleware
+walk took 0.0003762245178222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/interceptors
+walk took 0.0002090930938720703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/test
+walk took 0.00021505355834960938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/node_modules
+walk took 9.417533874511719e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/discovery
+walk took 0.0002067089080810547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/repl
+walk took 0.0008258819580078125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/exceptions
+walk took 0.0003819465637207031 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/pipes
+walk took 0.00025200843811035156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/adapters
+walk took 0.0001652240753173828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/hooks
+walk took 0.00043892860412597656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/errors
+walk took 0.0015518665313720703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/core/helpers/interfaces
+walk took 0.00032520294189453125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/swagger
+walk took 0.004575014114379883 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/swagger/dist/types
+walk took 0.0001289844512939453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/swagger/dist/decorators
+walk took 0.0013098716735839844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/swagger/dist/swagger-ui
+walk took 0.00025010108947753906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/swagger/dist/plugin
+walk took 0.0006577968597412109 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/platform-express
+walk took 0.0021407604217529297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/cli
+walk took 0.00428009033203125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/cli/test
+walk took 0.0008509159088134766 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/cli/bin
+walk took 0.00011706352233886719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/cli/node_modules
+walk took 0.0006508827209472656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/cli/actions
+walk took 0.0006761550903320312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/cli/lib/ui
+walk took 0.0004608631134033203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/cli/lib/configuration
+walk took 0.0004038810729980469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/testing
+walk took 0.0009250640869140625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common
+walk took 0.00436711311340332 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/file-stream
+walk took 0.0002288818359375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/serializer
+walk took 0.00044608116149902344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/cache
+walk took 0.0009708404541015625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/decorators
+walk took 0.001644134521484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/node_modules
+walk took 0.00010609626770019531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/enums
+walk took 0.0003399848937988281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/utils
+walk took 0.0006241798400878906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/exceptions
+walk took 0.0010769367218017578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/pipes
+walk took 0.0008540153503417969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/services
+walk took 0.0003879070281982422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/module-utils
+walk took 0.0007779598236083984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/common/interfaces/microservices
+walk took 0.00017881393432617188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist
+walk took 0.010355949401855469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/utils
+walk took 0.0006051063537597656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/middleware
+walk took 0.0005271434783935547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/configuration
+walk took 0.0004680156707763672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/interface
+walk took 0.0002570152282714844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/pipe
+walk took 0.0005247592926025391 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/decorator
+walk took 0.0005156993865966797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/client-app
+walk took 0.0008227825164794922 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/module
+walk took 0.00046896934509277344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/provider
+walk took 0.0005137920379638672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/library
+walk took 0.0008676052093505859 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/dist/lib/controller/files/js
+walk took 0.0001289844512939453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/@angular-devkit
+walk took 0.006341218948364258 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/@angular-devkit/core
+walk took 0.004998922348022461 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/@angular-devkit/core/node_modules
+walk took 0.0018460750579833984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/@angular-devkit/core/node
+walk took 0.0007951259613037109 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/@angular-devkit/schematics/tasks/package-manager
+walk took 0.00027489662170410156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/@angular-devkit/schematics/tasks/run-schematic
+walk took 0.00023031234741210938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/@angular-devkit/schematics/tasks/node
+walk took 0.00015401840209960938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/@angular-devkit/schematics/tasks/repo-init
+walk took 0.000225067138671875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/tslib
+walk took 0.0006721019744873047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/ajv-formats
+walk took 0.0006129741668701172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/json-schema-traverse
+walk took 0.0004792213439941406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs
+walk took 0.005010843276977539 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/migrations
+walk took 0.00025391578674316406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/webSocket
+walk took 0.0001671314239501953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/operators
+walk took 0.010575056076049805 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/util
+walk took 0.0022079944610595703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/internal-compatibility
+walk took 0.00021910667419433594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/internal
+walk took 0.003976106643676758 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/internal/operators
+walk took 0.007937192916870117 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/internal/util
+walk took 0.002355337142944336 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/internal/scheduler
+walk took 0.0010271072387695312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/internal/symbol
+walk took 0.0003216266632080078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/internal/testing
+walk took 0.0004937648773193359 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/internal/observable/dom
+walk took 0.00043511390686035156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/scheduler
+walk took 0.0003540515899658203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/symbol
+walk took 0.00027489662170410156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/testing
+walk took 0.00017499923706054688 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/fetch
+walk took 0.00018095970153808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm5
+walk took 0.004349946975708008 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm5/webSocket
+walk took 0.000125885009765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm5/operators
+walk took 0.00012087821960449219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm5/internal-compatibility
+walk took 0.0001227855682373047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm5/internal/operators
+walk took 0.004923820495605469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm5/internal/util
+walk took 0.001622915267944336 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm5/internal/scheduler
+walk took 0.0007219314575195312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm5/internal/symbol
+walk took 0.00021505355834960938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/add
+walk took 0.006947040557861328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/add/observable
+walk took 0.002023935317993164 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm2015
+walk took 0.004465818405151367 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm2015/webSocket
+walk took 0.00026917457580566406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm2015/operators
+walk took 0.0002722740173339844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm2015/internal-compatibility
+walk took 0.0003199577331542969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm2015/internal/operators
+walk took 0.004897117614746094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm2015/internal/util
+walk took 0.0016210079193115234 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm2015/internal/scheduler
+walk took 0.0007271766662597656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/_esm2015/internal/symbol
+walk took 0.00022411346435546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/observable
+walk took 0.0038499832153320312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/observable/dom
+walk took 0.000377655029296875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/operator
+walk took 0.006994009017944336 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/ajax
+walk took 0.00019693374633789062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/bundles
+walk took 0.00017118453979492188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/webSocket
+walk took 0.0001232624053955078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/operators
+walk took 0.002845287322998047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/util
+walk took 0.0008170604705810547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/internal-compatibility
+walk took 0.00017404556274414062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/internal
+walk took 0.006307840347290039 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/scheduler
+walk took 0.00019311904907226562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/symbol
+walk took 0.0001590251922607422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/testing
+walk took 0.00013208389282226562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/fetch
+walk took 0.00012111663818359375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/add
+walk took 0.004164218902587891 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/rxjs/src/observable
+walk took 0.001447916030883789 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/source-map
+walk took 0.0008387565612792969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/jsonc-parser
+walk took 0.0009458065032958984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/ajv/dist
+walk took 0.00412297248840332 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/ajv/dist/vocabularies
+walk took 0.004703044891357422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/ajv/dist/vocabularies/dynamic
+walk took 0.000431060791015625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/ajv/dist/vocabularies/core
+walk took 0.0003178119659423828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/ajv/dist/vocabularies/unevaluated
+walk took 0.0002911090850830078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nestjs/schematics/node_modules/ajv/dist/types
+walk took 0.0002830028533935547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/supertest
+walk took 0.0004999637603759766 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/acorn
+walk took 0.0004780292510986328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/file-entry-cache
+walk took 0.00018286705017089844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/express
+walk took 0.0016930103302001953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nodelib
+walk took 0.0031762123107910156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/encodeurl
+walk took 0.0001900196075439453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/signal-exit
+walk took 0.00018310546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/wrap-ansi
+walk took 0.00015306472778320312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/y18n
+walk took 0.0005822181701660156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/once
+walk took 0.0001609325408935547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/gensync
+walk took 0.00031185150146484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/prettier
+walk took 0.0009560585021972656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/babel-plugin-istanbul
+walk took 0.0003058910369873047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-circus
+walk took 0.0006039142608642578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint-plugin-prettier
+walk took 0.0003829002380371094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/regexpp
+walk took 0.00026988983154296875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ignore
+walk took 0.0002028942108154297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/serialize-javascript
+walk took 0.0001709461212158203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/sisteransi
+walk took 0.0002841949462890625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/v8-to-istanbul
+walk took 0.0004200935363769531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/esrecurse
+walk took 0.00017571449279785156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/string_decoder
+walk took 0.0002529621124267578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/emittery
+walk took 0.00017499923706054688 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/merge-descriptors
+walk took 0.00022602081298828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/tslib
+walk took 0.0005381107330322266 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ts-jest
+walk took 0.0043621063232421875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typedarray
+walk took 0.0007879734039306641 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/magic-string
+walk took 0.000514984130859375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/array-flatten
+walk took 0.00029397010803222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/argparse
+walk took 0.0003399848937988281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/picomatch
+walk took 0.0003809928894042969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/safe-buffer
+walk took 0.00023794174194335938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/tsconfig-paths-webpack-plugin
+walk took 0.0021619796752929688 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/write-file-atomic
+walk took 0.0002548694610595703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/function-bind
+walk took 0.00040602684020996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-glob
+walk took 0.00015616416931152344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/npm-run-path
+walk took 0.00017595291137695312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cli-table3
+walk took 0.0003898143768310547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/string-length
+walk took 0.0001761913299560547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/leven
+walk took 0.0001728534698486328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/source-map-support
+walk took 0.0002231597900390625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ee-first
+walk took 0.00015401840209960938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-fullwidth-code-point
+walk took 0.0001811981201171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@ampproject
+walk took 0.0015900135040283203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript
+walk took 0.0062711238861083984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/PLK
+walk took 0.0005869865417480469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/CHS
+walk took 0.0005822181701660156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/CHT
+walk took 0.0007197856903076172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/FRA
+walk took 0.0005860328674316406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/PTB
+walk took 0.0005841255187988281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/DEU
+walk took 0.0005669593811035156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/ITA
+walk took 0.0006120204925537109 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/JPN
+walk took 0.0009300708770751953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/ESN
+walk took 0.00074005126953125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/typescript/loc/lcl/CSY
+walk took 0.0008339881896972656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ora
+walk took 0.00021600723266601562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/co
+walk took 0.0001850128173828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/flat-cache
+walk took 0.0004248619079589844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/yargs-parser
+walk took 0.0004999637603759766 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inherits
+walk took 0.0001862049102783203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jsonfile
+walk took 0.0002009868621826172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/dir-glob
+walk took 0.000164031982421875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/iconv-lite
+walk took 0.0009272098541259766 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/anymatch
+walk took 0.00017833709716796875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/color-name
+walk took 0.00015497207641601562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/chokidar
+walk took 0.00042891502380371094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/p-locate
+walk took 0.0004668235778808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fresh
+walk took 0.0003120899200439453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/js-sdsl
+walk took 0.004453182220458984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/get-intrinsic
+walk took 0.00035691261291503906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/arg
+walk took 0.000179290771484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/terser-webpack-plugin
+walk took 0.0017850399017333984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/mute-stream
+walk took 0.0001583099365234375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint
+walk took 0.005021810531616211 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/types
+walk took 0.0012178421020507812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/typescript-estree
+walk took 0.005109071731567383 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/utils
+walk took 0.00475621223449707 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/utils/dist/eslint-utils
+walk took 0.0012581348419189453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/utils/dist/ts-eslint-scope
+walk took 0.0010790824890136719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/parser
+walk took 0.0010879039764404297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/type-utils
+walk took 0.002192974090576172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/scope-manager
+walk took 0.008289098739624023 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/scope-manager/dist/variable
+walk took 0.0005671977996826172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/scope-manager/dist/referencer
+walk took 0.0009520053863525391 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/scope-manager/dist/scope
+walk took 0.0019922256469726562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/scope-manager/dist/definition
+walk took 0.002271890640258789 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/eslint-plugin/dist
+walk took 0.006288766860961914 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/eslint-plugin/dist/util
+walk took 0.0012850761413574219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/eslint-plugin/dist/configs
+walk took 0.00038886070251464844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/eslint-plugin/dist/rules/naming-convention-utils
+walk took 0.00045609474182128906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@typescript-eslint/eslint-plugin/node_modules
+walk took 0.00011205673217773438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/shelljs
+walk took 0.0011470317840576172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/os-name
+walk took 0.0001850128173828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/babel-jest
+walk took 0.0002951622009277344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@nuxtjs
+walk took 0.00047469139099121094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/qs
+walk took 0.0006878376007080078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@tsconfig
+walk took 0.0007741451263427734 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/js-yaml
+walk took 0.0013508796691894531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint-visitor-keys
+walk took 0.0004470348358154297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/whatwg-url
+walk took 0.0003809928894042969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/lorem-ipsum
+walk took 0.005543231964111328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ts-node
+walk took 0.0038759708404541016 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rechoir
+walk took 0.0004839897155761719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/prettier-linter-helpers
+walk took 0.00040078163146972656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/parent-module
+walk took 0.000164031982421875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@humanwhocodes
+walk took 0.001461029052734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-binary-path
+walk took 0.00021386146545410156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/combined-stream
+walk took 0.0002779960632324219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/pluralize
+walk took 0.0001652240753173828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@colors
+walk took 0.0011668205261230469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@cspotcode
+walk took 0.001232147216796875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/path-to-regexp
+walk took 0.0002079010009765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/safer-buffer
+walk took 0.00021767616271972656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-path-inside
+walk took 0.00017523765563964844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/deepmerge
+walk took 0.0005812644958496094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/run-parallel
+walk took 0.0001919269561767578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/p-limit
+walk took 0.0002779960632324219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-resolve
+walk took 0.0007350444793701172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/diff
+walk took 0.001287221908569336 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/mime-types
+walk took 0.000179290771484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/strip-bom
+walk took 0.0001556873321533203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webidl-conversions
+walk took 0.0002541542053222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/json-schema-traverse
+walk took 0.0004527568817138672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/end-of-stream
+walk took 0.00015592575073242188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/natural-compare
+walk took 0.000141143798828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/multer
+walk took 0.0005941390991210938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/superagent
+walk took 0.0009779930114746094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-watcher
+walk took 0.0005710124969482422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/type-is
+walk took 0.0001747608184814453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/minimist
+walk took 0.0007460117340087891 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/consola
+walk took 0.0014660358428955078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fast-diff
+walk took 0.00019931793212890625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-stream
+walk took 0.00018215179443359375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/xtend
+walk took 0.00021195411682128906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/universalify
+walk took 0.00015616416931152344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/onetime
+walk took 0.00018095970153808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/node-int64
+walk took 0.00019025802612304688 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/esutils
+walk took 0.0003070831298828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/find-up
+walk took 0.00019097328186035156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/chalk
+walk took 0.0003440380096435547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ansi-regex
+walk took 0.0001819133758544922 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/babel-preset-jest
+walk took 0.00016307830810546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/enhanced-resolve
+walk took 0.0012540817260742188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/through
+walk took 0.0003941059112548828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/esprima
+walk took 0.0003972053527832031 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/bs-logger
+walk took 0.0009601116180419922 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/has-flag
+walk took 0.00018310546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/supports-color
+walk took 0.00017905235290527344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/html-escaper
+walk took 0.0005559921264648438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/vary
+walk took 0.00018095970153808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fs-extra
+walk took 0.0020630359649658203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/supports-preserve-symlinks-flag
+walk took 0.0003859996795654297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/color-convert
+walk took 0.00022077560424804688 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/path-key
+walk took 0.00017404556274414062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/merge-stream
+walk took 0.00015497207641601562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/istanbul-lib-report
+walk took 0.00045108795166015625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/readdirp
+walk took 0.00028395652770996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/unpipe
+walk took 0.0002079010009765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/resolve-cwd
+walk took 0.00017714500427246094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/brace-expansion
+walk took 0.0001652240753173828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/schema-utils
+walk took 0.0009388923645019531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fill-range
+walk took 0.00016307830810546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/json-stable-stringify-without-jsonify
+walk took 0.0006070137023925781 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/binary-extensions
+walk took 0.0002193450927734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/get-caller-file
+walk took 0.0002028942108154297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/util-deprecate
+walk took 0.00020122528076171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/word-wrap
+walk took 0.00017690658569335938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-runner
+walk took 0.0006248950958251953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/path-parse
+walk took 0.00015425682067871094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack
+walk took 0.0045928955078125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/bin
+walk took 0.00011801719665527344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/node_modules
+walk took 0.00040602684020996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/schemas
+walk took 0.0030472278594970703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/schemes
+walk took 0.00014209747314453125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/wasm-sync
+walk took 0.0003151893615722656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/sharing
+walk took 0.00043392181396484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/optimize
+walk took 0.0004851818084716797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/cache
+walk took 0.00026607513427734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/asset
+walk took 0.00020813941955566406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/webworker
+walk took 0.0001480579376220703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/util
+walk took 0.001497030258178711 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/css
+walk took 0.00024390220642089844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/config
+walk took 0.00017309188842773438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/esm
+walk took 0.00022125244140625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/web
+walk took 0.0001990795135498047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/wasm-async
+walk took 0.0002028942108154297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/hmr
+walk took 0.00019121170043945312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/serialization
+walk took 0.0004899501800537109 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/wasm
+walk took 0.00010800361633300781 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/runtime
+walk took 0.000698089599609375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/dependencies
+walk took 0.002531766891479492 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/library
+walk took 0.00026869773864746094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/ids
+walk took 0.0003337860107421875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/container
+walk took 0.00039887428283691406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/json
+walk took 0.0001590251922607422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/prefetch
+walk took 0.00018906593322753906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/rules
+walk took 0.0001857280731201172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/javascript
+walk took 0.0002963542938232422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/errors
+walk took 9.894371032714844e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/node
+walk took 0.00039887428283691406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/performance
+walk took 0.0001857280731201172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/electron
+walk took 9.5367431640625e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/async-modules
+walk took 0.0001342296600341797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/logging
+walk took 0.00016689300537109375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/stats
+walk took 0.00019121170043945312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack/lib/debug
+walk took 0.00010085105895996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/has-symbols
+walk took 0.0005259513854980469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/defaults
+walk took 0.00019598007202148438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/picocolors
+walk took 0.00022602081298828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ansi-colors
+walk took 0.00029206275939941406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ieee754
+walk took 0.0002071857452392578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/slash
+walk took 0.00017189979553222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/raw-body
+walk took 0.000225067138671875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/doctrine
+walk took 0.0003478527069091797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-leak-detector
+walk took 0.00026702880859375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/lines-and-columns
+walk took 0.00026488304138183594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/yn
+walk took 0.00020003318786621094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/semver
+walk took 0.001608133316040039 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/istanbul-lib-coverage
+walk took 0.00038909912109375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/http-errors
+walk took 0.0001811981201171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/append-field
+walk took 0.00041294097900390625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/minimatch
+walk took 0.00016117095947265625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/swagger-ui-dist
+walk took 0.0007719993591308594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/accepts
+walk took 0.00018310546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-haste-map
+walk took 0.0009489059448242188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/clone
+walk took 0.00019288063049316406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/estraverse
+walk took 0.00019288063049316406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ajv-keywords
+walk took 0.0010547637939453125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ansi-styles
+walk took 0.00017690658569335938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-core-module
+walk took 0.00034809112548828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cookie-signature
+walk took 0.00017404556274414062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/forwarded
+walk took 0.00018095970153808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/js-tokens
+walk took 0.0001728534698486328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/negotiator
+walk took 0.0003478527069091797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@sinclair
+walk took 0.0017421245574951172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/body-parser
+walk took 0.0013039112091064453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/acorn-jsx
+walk took 0.0003116130828857422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ts-loader
+walk took 0.0013666152954101562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/resolve.exports
+walk took 0.0002911090850830078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/tr46
+walk took 0.00026798248291015625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel
+walk took 0.005481243133544922 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-string-parser
+walk took 0.0002808570861816406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-function-name
+walk took 0.00047588348388671875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-validator-option
+walk took 0.00032591819763183594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/types
+walk took 0.00487208366394043 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/types/lib/comments
+walk took 0.00039315223693847656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/types/lib/retrievers
+walk took 0.00017213821411132812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/types/lib/builders
+walk took 0.0007688999176025391 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/types/lib/ast-types
+walk took 0.0002071857452392578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/types/lib/constants
+walk took 0.0002510547637939453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-plugin-utils
+walk took 0.0002818107604980469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/core
+walk took 0.004640102386474609 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-hoist-variables
+walk took 0.0002589225769042969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-top-level-await
+walk took 0.0002601146697998047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/highlight
+walk took 0.0017271041870117188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-bigint
+walk took 0.0002522468566894531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-optional-chaining
+walk took 0.00026297569274902344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-split-export-declaration
+walk took 0.0002548694610595703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/template
+walk took 0.0004999637603759766 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-import-meta
+walk took 0.00026607513427734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-json-strings
+walk took 0.00024700164794921875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-module-transforms
+walk took 0.0004937648773193359 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-logical-assignment-operators
+walk took 0.00026869773864746094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/parser
+walk took 0.000728607177734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-class-properties
+walk took 0.0002751350402832031 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/generator
+walk took 0.0015149116516113281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-validator-identifier
+walk took 0.0004911422729492188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-environment-visitor
+walk took 0.00026535987854003906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-numeric-separator
+walk took 0.0002601146697998047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-optional-catch-binding
+walk took 0.0002608299255371094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/helper-compilation-targets
+walk took 0.001013040542602539 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/code-frame
+walk took 0.0002560615539550781 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/plugin-syntax-nullish-coalescing-operator
+walk took 0.0002701282501220703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/traverse/node_modules
+walk took 0.0003001689910888672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@babel/traverse/lib/path/lib
+walk took 0.00041604042053222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-number
+walk took 0.0002167224884033203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fs.realpath
+walk took 0.0001938343048095703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/macos-release
+walk took 0.0001900196075439453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cli-width
+walk took 0.0002181529998779297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/iterare
+walk took 0.0014979839324951172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-environment-node
+walk took 0.0002560615539550781 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/levn
+walk took 0.0002951622009277344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/yocto-queue
+walk took 0.00017309188842773438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/lodash.merge
+walk took 0.00015401840209960938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fork-ts-checker-webpack-plugin
+walk took 0.004817962646484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fork-ts-checker-webpack-plugin/node_modules
+walk took 9.799003601074219e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fork-ts-checker-webpack-plugin/lib/typescript/extension
+walk took 0.0006711483001708984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fork-ts-checker-webpack-plugin/lib/typescript/worker/lib/host
+walk took 0.00021505355834960938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fork-ts-checker-webpack-plugin/lib/typescript/worker/lib/program
+walk took 0.00022125244140625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fork-ts-checker-webpack-plugin/lib/typescript/worker/lib/file-system
+walk took 0.0002720355987548828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-util
+walk took 0.0006852149963378906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/figures
+walk took 0.0001850128173828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-get-type
+walk took 0.0002570152282714844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/dezalgo
+walk took 0.00030303001403808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/utils-merge
+walk took 0.00030493736267089844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/side-channel
+walk took 0.0004911422729492188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/concat-map
+walk took 0.0005688667297363281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/get-package-type
+walk took 0.0002720355987548828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/collect-v8-coverage
+walk took 0.00019979476928710938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/pump
+walk took 0.0002219676971435547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/json5
+walk took 0.0007569789886474609 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/tsutils
+walk took 0.003147125244140625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cors
+walk took 0.0002942085266113281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/get-stream
+walk took 0.00020503997802734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/update-browserslist-db
+walk took 0.0003619194030761719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/sprintf-js
+walk took 0.0007710456848144531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/interpret
+walk took 0.00019621849060058594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/restore-cursor
+walk took 0.00017595291137695312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/es-module-lexer
+walk took 0.0004947185516357422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cookiejar
+walk took 0.00016307830810546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/serve-static
+walk took 0.00017833709716796875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@webassemblyjs
+walk took 0.00894308090209961 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@webassemblyjs/wasm-parser/esm
+walk took 0.00024318695068359375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@webassemblyjs/wasm-parser/lib/types
+walk took 9.393692016601562e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/randombytes
+walk took 0.00024199485778808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/optionator
+walk took 0.0003199577331542969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/convert-source-map
+walk took 0.0001621246337890625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/uri-js
+walk took 0.0014278888702392578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-arrayish
+walk took 0.00023412704467773438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/prompts
+walk took 0.0022230148315429688 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cliui
+walk took 0.00044083595275878906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/object-assign
+walk took 0.00015807151794433594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/form-data
+walk took 0.00032210350036621094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/yaml
+walk took 0.0017871856689453125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/delayed-stream
+walk took 0.0002942085266113281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-snapshot
+walk took 0.0005729198455810547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/exit
+walk took 0.0007610321044921875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cross-spawn
+walk took 0.0005691051483154297 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ansi-escapes
+walk took 0.0015459060668945312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/istanbul-lib-instrument
+walk took 0.0008339881896972656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/mime
+walk took 0.0003676414489746094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-message-util
+walk took 0.0002651214599609375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-validate
+walk took 0.0004858970642089844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/yargs
+walk took 0.002222776412963867 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint-config-prettier
+walk took 0.0009860992431640625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-generator-fn
+walk took 0.00018787384033203125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs
+walk took 0.004820108413696289 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/webSocket
+walk took 9.799003601074219e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/operators
+walk took 9.393692016601562e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist
+walk took 0.00398707389831543 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/types
+walk took 0.0038809776306152344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/types/webSocket
+walk took 0.00012612342834472656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/types/operators
+walk took 0.0001227855682373047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/types/internal/operators
+walk took 0.005944967269897461 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/types/internal/util
+walk took 0.0016520023345947266 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/types/internal/scheduler
+walk took 0.0009911060333251953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/types/internal/symbol
+walk took 0.00017523765563964844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/types/internal/testing
+walk took 0.0003421306610107422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm
+walk took 0.004008054733276367 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm/webSocket
+walk took 0.00012111663818359375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm/operators
+walk took 0.00011706352233886719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm/internal/operators
+walk took 0.005558013916015625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm/internal/util
+walk took 0.0019598007202148438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm/internal/scheduler
+walk took 0.0010297298431396484 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm/internal/symbol
+walk took 0.00018477439880371094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm/internal/testing
+walk took 0.0003399848937988281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm5
+walk took 0.0038900375366210938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm5/webSocket
+walk took 0.000125885009765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm5/operators
+walk took 0.00013113021850585938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm5/internal/operators
+walk took 0.005322933197021484 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm5/internal/util
+walk took 0.001934051513671875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm5/internal/scheduler
+walk took 0.0011568069458007812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm5/internal/symbol
+walk took 0.0001900196075439453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/esm5/internal/testing
+walk took 0.00034809112548828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/bundles
+walk took 0.00016808509826660156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/cjs/webSocket
+walk took 0.00013208389282226562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/cjs/operators
+walk took 0.00012373924255371094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/cjs/internal/operators
+walk took 0.005084037780761719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/cjs/internal/util
+walk took 0.0016300678253173828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/cjs/internal/scheduler
+walk took 0.0009877681732177734 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/cjs/internal/symbol
+walk took 0.00017309188842773438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/dist/cjs/internal/testing
+walk took 0.0003380775451660156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/node_modules
+walk took 0.0005397796630859375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/testing
+walk took 0.00010013580322265625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/fetch
+walk took 9.894371032714844e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/ajax
+walk took 9.226799011230469e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/src/webSocket
+walk took 0.00010275840759277344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/src/operators
+walk took 9.894371032714844e-05 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/rxjs/src/internal/operators
+walk took 0.002530813217163086 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/asynckit
+walk took 0.000621795654296875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ipaddr.js
+walk took 0.0002892017364501953 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/espree
+walk took 0.0005848407745361328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint
+walk took 0.008328914642333984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/messages
+walk took 0.0003299713134765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/bin
+walk took 0.00010609626770019531 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/node_modules
+walk took 0.0016870498657226562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/lib/rule-tester
+walk took 0.0001399517059326172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/lib/cli-engine
+walk took 0.0005497932434082031 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/lib/config
+walk took 0.00018715858459472656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/lib/linter
+walk took 0.000576019287109375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/lib/shared
+walk took 0.0002849102020263672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/eslint/lib/rules/utils
+walk took 0.0005171298980712891 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/glob
+walk took 0.00020122528076171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/esquery
+walk took 0.00043511390686035156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/import-fresh
+walk took 0.0004410743713378906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/has
+walk took 0.0003628730773925781 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cookie
+walk took 0.0002002716064453125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fast-levenshtein
+walk took 0.00016498565673828125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/neo-async
+walk took 0.0025107860565185547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/to-regex-range
+walk took 0.0001690387725830078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/streamsearch
+walk took 0.0004038810729980469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@sinonjs
+walk took 0.0022268295288085938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/node-emoji
+walk took 0.000492095947265625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/source-map
+walk took 0.0006861686706542969 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/pretty-format
+walk took 0.0009899139404296875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-each
+walk took 0.0004839897155761719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/array-union
+walk took 0.00017690658569335938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-mock
+walk took 0.0002779960632324219 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/windows-release
+walk took 0.0014910697937011719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cosmiconfig
+walk took 0.0010619163513183594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/busboy
+walk took 0.0009610652923583984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-unicode-supported
+walk took 0.0001800060272216797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/escape-html
+walk took 0.00015592575073242188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer
+walk took 0.0081939697265625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/tslib
+walk took 0.000904083251953125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/migrations
+walk took 0.00032901763916015625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/webSocket
+walk took 0.00022792816162109375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/operators
+walk took 0.0076520442962646484 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/util
+walk took 0.0025877952575683594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/internal-compatibility
+walk took 0.00020599365234375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/internal
+walk took 0.0038449764251708984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/internal/operators
+walk took 0.007504701614379883 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/internal/util
+walk took 0.003023862838745117 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/internal/scheduler
+walk took 0.0011839866638183594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/internal/symbol
+walk took 0.00047206878662109375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/internal/testing
+walk took 0.0004978179931640625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/internal/observable/dom
+walk took 0.00041604042053222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/scheduler
+walk took 0.00035190582275390625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/symbol
+walk took 0.0002808570861816406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/testing
+walk took 0.00016188621520996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/fetch
+walk took 0.0001709461212158203 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm5
+walk took 0.004335165023803711 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm5/webSocket
+walk took 0.00014400482177734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm5/operators
+walk took 0.000125885009765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm5/internal-compatibility
+walk took 0.00013327598571777344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm5/internal/operators
+walk took 0.004728078842163086 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm5/internal/util
+walk took 0.0024089813232421875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm5/internal/scheduler
+walk took 0.0007932186126708984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm5/internal/symbol
+walk took 0.00027823448181152344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/add
+walk took 0.007137775421142578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/add/observable
+walk took 0.001960277557373047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm2015
+walk took 0.004169940948486328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm2015/webSocket
+walk took 0.00016307830810546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm2015/operators
+walk took 0.0001308917999267578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm2015/internal-compatibility
+walk took 0.00017786026000976562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm2015/internal/operators
+walk took 0.0054552555084228516 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm2015/internal/util
+walk took 0.00180816650390625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm2015/internal/scheduler
+walk took 0.0007500648498535156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/_esm2015/internal/symbol
+walk took 0.00022673606872558594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/observable
+walk took 0.0037093162536621094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/observable/dom
+walk took 0.0003712177276611328 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/operator
+walk took 0.007318973541259766 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/ajax
+walk took 0.00029397010803222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/bundles
+walk took 0.00018596649169921875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/webSocket
+walk took 0.0001327991485595703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/operators
+walk took 0.0024116039276123047 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/util
+walk took 0.0007729530334472656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/internal-compatibility
+walk took 0.00013303756713867188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/internal
+walk took 0.005819797515869141 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/scheduler
+walk took 0.0001780986785888672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/symbol
+walk took 0.00014090538024902344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/testing
+walk took 0.00016999244689941406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/fetch
+walk took 0.00023865699768066406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/add
+walk took 0.0036771297454833984 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/inquirer/node_modules/rxjs/src/observable
+walk took 0.0016069412231445312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jsonc-parser
+walk took 0.001051187515258789 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/statuses
+walk took 0.00022411346435546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/make-error
+walk took 0.0002989768981933594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/babel-plugin-jest-hoist
+walk took 0.0003440380096435547 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-pnp-resolver
+walk took 0.0002307891845703125 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/string-width
+walk took 0.0001811981201171875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-interactive
+walk took 0.0001747608184814453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/events
+walk took 0.0008111000061035156 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/type-detect
+walk took 0.0001800060272216797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/execa
+walk took 0.0003979206085205078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/yallist
+walk took 0.00017404556274414062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/parseurl
+walk took 0.00018215179443359375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/terser
+walk took 0.0018839836120605469 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@jridgewell
+walk took 0.003945112228393555 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/etag
+walk took 0.0001800060272216797 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/terminal-link
+walk took 0.000179290771484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/log-symbols
+walk took 0.0002040863037109375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/p-try
+walk took 0.00017976760864257812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@istanbuljs
+walk took 0.004423856735229492 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/component-emitter
+walk took 0.00019598007202148438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/camelcase
+walk took 0.00017881393432617188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/isarray
+walk took 0.0002300739288330078 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/concat-stream
+walk took 0.00016379356384277344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/external-editor
+walk took 0.0007200241088867188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/micromatch
+walk took 0.00016307830810546875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/wrappy
+walk took 0.00015687942504882812 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fast-glob
+walk took 0.002543926239013672 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/resolve-from
+walk took 0.00018405914306640625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-changed-files
+walk took 0.00032711029052734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/send
+walk took 0.0017189979553222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/is-extglob
+walk took 0.00015592575073242188 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/uuid
+walk took 0.002218961715698242 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fastq
+walk took 0.00043582916259765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/finalhandler
+walk took 0.0009961128234863281 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/tmp
+walk took 0.0002429485321044922 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cli-cursor
+walk took 0.00017404556274414062 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/@bcoe
+walk took 0.0018680095672607422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/webpack-node-externals
+walk took 0.0002570152282714844 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/cli-spinners
+walk took 0.00021004676818847656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/run-async
+walk took 0.00016188621520996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/caniuse-lite
+walk took 0.014039039611816406 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/caniuse-lite/dist
+walk took 0.0005099773406982422 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/caniuse-lite/data/regions
+walk took 0.005123138427734375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/merge2
+walk took 0.00019025802612304688 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/deep-is
+walk took 0.0004532337188720703 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/kleur
+walk took 0.00018215179443359375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/buffer-from
+walk took 0.00015401840209960938 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/braces
+walk took 0.0003871917724609375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/which
+walk took 0.00029087066650390625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/ajv
+walk took 0.002628803253173828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/emoji-regex
+walk took 0.0003299713134765625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/object-inspect
+walk took 0.0010249614715576172 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/readable-stream
+walk took 0.001615285873413086 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/dedent
+walk took 0.00024175643920898438 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/type-check
+walk took 0.00041031837463378906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/locate-path
+walk took 0.00017595291137695312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/mkdirp
+walk took 0.00028395652770996094 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/graceful-fs
+walk took 0.0002262592315673828 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/on-finished
+walk took 0.00018095970153808594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/loader-runner
+walk took 0.00029587745666503906 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-diff
+walk took 0.00044798851013183594 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/walker
+walk took 0.0002663135528564453 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-resolve-dependencies
+walk took 0.0002529621124267578 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/to-fast-properties
+walk took 0.00015497207641601562 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/human-signals
+walk took 0.000530242919921875 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/globby
+walk took 0.0004329681396484375 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/normalize-path
+walk took 0.00015616416931152344 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fsevents
+walk took 0.00019884109497070312 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/babel-preset-current-node-syntax
+walk took 0.0003619194030761719 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/fast-deep-equal
+walk took 0.00039005279541015625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/reflect-metadata
+walk took 0.00047707557678222656 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/shebang-command
+walk took 0.0001621246337890625 time to finish
+directory: /Users/inno/Documents/mock-api/faq-mock/node_modules/jest-config/node_modules
+walk took 9.894371032714844e-05 time to finish

@@ -5,12 +5,32 @@ Applicable to all use cases
 author: QuikFynd
 
 """
+
+
+from functools import wraps
+from time import time
+import asyncio
+
+
+def timed(f):
+  @wraps(f)
+  def wrapper(*args, **kwds):
+    start = time()
+    result = f(*args, **kwds)
+    elapsed = time() - start
+    print ("{} took {} time to finish".format(f.__name__, elapsed))
+    return result
+  return wrapper
+
+
+# ==============================
 import os
 import sys
 import scandir
 
 # Named tuple for result that is posted to complete_queue
-from tasks.tasks import ScanEntry
+from tasks import ScanEntry
+
 
 is_windows = sys.platform == 'win32'
 if is_windows:
@@ -22,7 +42,7 @@ def _skip_path(path):
     else:
         return False
 
-def _get_scan_entry(top):
+async def _get_scan_entry(top):
     stat = os.stat(top)
     top_entry = ScanEntry(scandir_path=os.path.dirname(top),
         path=top,
@@ -40,7 +60,7 @@ def _get_scan_entry(top):
 
     return top_entry
 
-def _walk(top, topdown=True, onerror=None, followlinks=False):
+async def _walk(top, topdown=True, onerror=None, followlinks=False):
     """Like Python 3.5's implementation of os.walk() -- faster than
     the pre-Python 3.5 version as it uses scandir() internally.
     """
@@ -62,7 +82,7 @@ def _walk(top, topdown=True, onerror=None, followlinks=False):
         # able to traverse that directory
         visited = {}
         try:
-            top_entry = _get_scan_entry(top)
+            top_entry = await _get_scan_entry(top)
             visited = {top:top_entry}
         except OSError as e:
             pass
@@ -81,7 +101,7 @@ def _walk(top, topdown=True, onerror=None, followlinks=False):
             # In case of error, we return as if we were not
             # able to traverse that directory
             try:
-                top_entry = _get_scan_entry(top)
+                top_entry = await _get_scan_entry(top)
             except OSError as e:
                 pass
 
@@ -139,7 +159,7 @@ def _walk(top, topdown=True, onerror=None, followlinks=False):
     # We also return scan_entry for top
     visited = {}
     try:
-        top_entry = _get_scan_entry(top)
+        top_entry = await _get_scan_entry(top)
         visited = {top:top_entry}
     except OSError as e:
         pass
@@ -153,7 +173,7 @@ else:
     # https://github.com/benhoyt/scandir/issues/54
     file_system_encoding = sys.getfilesystemencoding()
 
-    def walk(top, topdown=True, onerror=None, followlinks=False, limitToOne=False):
+    async def walk(top, topdown=True, onerror=None, followlinks=False, limitToOne=False):
         try:
             if isinstance(top, bytes):
                 top = top.decode(file_system_encoding)
@@ -164,7 +184,7 @@ else:
 
             if isinstance(top, dict):
                 dirs = top
-                (_top,entry) =  dirs.popitem()
+                (_top, entry) =  dirs.popitem()
             else:
                 _top = top
             while True:
@@ -178,7 +198,7 @@ else:
                         (_top, entry) = dirs.popitem()
                         continue
 
-                (_visited, _dirs, _nondirs) = _walk(_top, topdown, onerror, followlinks)
+                (_visited, _dirs, _nondirs) = await _walk(_top, topdown, onerror, followlinks)
 
                 visited.update(_visited)
                 dirs.update(_dirs)
@@ -213,6 +233,32 @@ else:
             pass
 
 
+async def traverse(start):
+    visited, dirs, nondirs = await walk(start, topdown=True, followlinks=True, limitToOne=False)
+    tasks = []
+    for directory in list(dirs.keys()):
+        if not visited.get(directory):
+            tasks.append(asyncio.create_task(traverse(directory)))
+    if tasks:
+        await asyncio.gather(*tasks)
+@timed
+async def main():
+    start = "/Users/inno/Documents/mock-api/faq-mock"
+    await traverse(start)
+
 
 if __name__ == "__main__":
-    walk("/")
+    # visited, dirs, nondirs = walk("/Users/inno/Documents/mock-api/events-mock", followlinks=True, topdown=True)
+    # print("directories: ", dirs)
+    # print("total dirs: ", len(dirs))
+
+    # print("visited: ", visited)
+    # print("total visited: ", len(visited))
+
+    # print("nondirs: ", nondirs)
+    # print("total nondirs: ", len(nondirs))
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(main())
+    
+    
+

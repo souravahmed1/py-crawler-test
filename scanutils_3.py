@@ -5,12 +5,29 @@ Applicable to all use cases
 author: QuikFynd
 
 """
+
+
+from functools import wraps
+from time import time
+
+def timed(f):
+  @wraps(f)
+  def wrapper(*args, **kwds):
+    start = time()
+    result = f(*args, **kwds)
+    elapsed = time() - start
+    print ("{} took {} time to finish".format(f.__name__, elapsed))
+    return result
+  return wrapper
+
+
+# ==============================
 import os
 import sys
 import scandir
 
 # Named tuple for result that is posted to complete_queue
-from tasks.tasks import ScanEntry
+from tasks import ScanEntry
 
 is_windows = sys.platform == 'win32'
 if is_windows:
@@ -164,7 +181,7 @@ else:
 
             if isinstance(top, dict):
                 dirs = top
-                (_top,entry) =  dirs.popitem()
+                (_top, entry) =  dirs.popitem()
             else:
                 _top = top
             while True:
@@ -213,6 +230,28 @@ else:
             pass
 
 
+def traverse(start):
+    visited, dirs, nondirs = walk(start, topdown=True, followlinks=True, limitToOne=False)
+    for directory in list(dirs.keys()):
+        if not visited.get(directory):
+            traverse(directory)
+
+@timed
+def main():
+    start = "/Users/inno/Documents/mock-api/faq-mock"
+    traverse(start)
+
 
 if __name__ == "__main__":
-    walk("/")
+    # visited, dirs, nondirs = walk("/Users/inno/Documents/mock-api/events-mock", followlinks=True, topdown=True)
+    # print("directories: ", dirs)
+    # print("total dirs: ", len(dirs))
+
+    # print("visited: ", visited)
+    # print("total visited: ", len(visited))
+
+    # print("nondirs: ", nondirs)
+    # print("total nondirs: ", len(nondirs))
+    main()
+    
+
