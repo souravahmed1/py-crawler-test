@@ -237,13 +237,13 @@ async def traverse(start):
     visited, dirs, nondirs = await walk(start, topdown=True, followlinks=True, limitToOne=False)
     tasks = []
     for directory in list(dirs.keys()):
-        if not visited.get(directory):
-            tasks.append(asyncio.create_task(traverse(directory)))
+        tasks.append(asyncio.create_task(traverse(directory)))
+    for nondir in list(nondirs.keys()):
+        tasks.append(asyncio.create_task(traverse(nondir)))
     if tasks:
         await asyncio.gather(*tasks)
-@timed
 async def main():
-    start = "/Users/inno/Documents/mock-api/faq-mock"
+    start = "/Users/inno/Documents"
     await traverse(start)
 
 
@@ -257,8 +257,10 @@ if __name__ == "__main__":
 
     # print("nondirs: ", nondirs)
     # print("total nondirs: ", len(nondirs))
+    start = time()
     loop = asyncio.get_event_loop()
     loop.run_until_complete(main())
     
+    elapsed = time() - start
     
-
+    print ("took {} time to finish".format(elapsed))

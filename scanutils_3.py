@@ -231,14 +231,15 @@ else:
 
 
 def traverse(start):
-    visited, dirs, nondirs = walk(start, topdown=True, followlinks=True, limitToOne=False)
+    visited, dirs, nondirs = walk(start, topdown=True, followlinks=True, limitToOne=True)
     for directory in list(dirs.keys()):
-        if not visited.get(directory):
-            traverse(directory)
+        traverse(directory)
+    for nondir in list(nondirs.keys()):
+        traverse(nondir)
 
 @timed
 def main():
-    start = "/Users/inno/Documents/mock-api/faq-mock"
+    start = "/Users/inno/Documents"
     traverse(start)
 
 

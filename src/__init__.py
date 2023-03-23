@@ -1,88 +1,153 @@
-import queue
+# import multiprocessing
+# import time
+# import random
+
+# def producer(queue):
+#     while True:
+#         # Produce an item and put it in the queue
+#         item = random.randint(1, 10)
+#         queue.put(item)
+#         print(f"Produced item {item}")
+#         time.sleep(random.random())
+
+# def consumer(queue):
+#     while True:
+#         # Get an item from the queue and consume it
+#         item = queue.get()
+#         print(f"Consumed item {item}")
+#         time.sleep(random.random())
+
+# if __name__ == '__main__':
+#     # Create a shared queue
+#     queue = multiprocessing.Queue()
+
+#     # Start the producer and consumer processes
+#     producer_process = multiprocessing.Process(target=producer, args=(queue,))
+#     consumer_process = multiprocessing.Process(target=consumer, args=(queue,))
+#     producer_process.start()
+#     consumer_process.start()
+
+#     # Wait for the processes to finish
+#     producer_process.join()
+#     consumer_process.join()
+# from queue import Queue
+
+
+from multiprocessing import JoinableQueue, Process
+from time import sleep
 import os
-import time
-import threading
 
-from functools import wraps
-from time import time
+import abc
+class IWorker(metaclass=abc.ABCMeta):
+    @abc.abstractmethod
+    def run(self):
+        pass
+
+class CrawlerWorker(IWorker):
+    def __init__(self, path_to_explore: str, folder_queue: JoinableQueue, file_queue: JoinableQueue) -> None:
+        ''' always start with a dir '''
+        self.path_to_explore = path_to_explore
+        self.folder_queue = folder_queue
+        self.file_queue = file_queue
+
+        self.folder_queue.put(path_to_explore)
 
 
+    def run(self):
+        while not self.folder_queue.empty():
+            current_folder = self.folder_queue.get()
+            print("current_dir_for_processing: ", current_folder)
+            try:
+                files = os.listdir(current_folder)
+            except PermissionError:
+                print(f"Cannot list contents of {current_folder} due to permission error")
+            else:
+                files_list = []
+                for file in files:
+                    current_item = current_folder + "/" + file
+                    if os.path.isdir(current_item):
+                        self.folder_queue.put(current_item)
+                    else:
+                        # self.file_queue.put(current_item)
+                        files_list.append(current_item)
 
+                if len(files_list) > 0: self.file_queue.put(files_list)
+                self.folder_queue.task_done()
 
-folder_queue = queue.Queue()
-folder_queue_size = 100
-files_queue = queue.Queue()
-files_queue_size = 100
+class ProcessWorker(IWorker):
+    def __init__(self,name: str, folder_queue: JoinableQueue, file_queue: JoinableQueue) -> None:
+        self.folder_queue = folder_queue
+        self.file_queue = file_queue
+        self.name = name
 
-folder_queue.put('/Users/inno/Documents')
-folder_queue_size -= 1
+    def run(self):
+        while not self.file_queue.empty():
+            # while self.file_queue.empty(): pass -> semaphore way of jamming need to be replaced.
+            try:
+                print(f"{self.name} ", end="")
+                file_for_processing = self.file_queue.get(True, 1) # hard code the 1 sec limit
+                # print(self.name, "file_for_processing: ", file_for_processing)
+                if not file_for_processing: 
+                    self.file_queue.task_done()
+                    break
+            except Exception:
+                print("Queue Empty Exception")
+            else:
+                if not isinstance(file_for_processing, list):
+                    file_for_processing = [file_for_processing]
 
-def crawler():
-    global folder_queue
-    global folder_queue_size
-    global files_queue
-    global files_queue_size
+                for file in file_for_processing:
+                    stat_data = os.stat(file)
 
-    while not folder_queue.empty():
-        current_folder = folder_queue.get()
-        folder_queue_size += 1
-        print(f"================== {current_folder} =======================")
-
-        try:
-            files = os.listdir(current_folder)
-        except PermissionError:
-            print(f"Cannot list contents of {current_folder} due to permission error")
+                # print("Stat: ", stat_data)
+                self.file_queue.task_done()
         else:
-            for file in files:
-                current_item = current_folder + "/" + file
-                print(f"currently checking {current_item}")
-                if os.path.isdir(current_item):
-                    print("folder")
-                    folder_queue.put(current_item)
-                    folder_queue_size -= 1
-                else:
-                    print("file")
-                    files_queue.put(current_item)
-                    files_queue_size -= 1
-                
-                # wait for processing to complete for files in queue
-                if( files_queue_size <= 0 ):
-                    print("Locking as file size is 100")
-                while(files_queue_size <= 0):
-                    pass 
+            self.run()
 
-            print("folder_queue :" , list(folder_queue.queue))
-            print("files_queue :" , list(files_queue.queue))
+if __name__ == '__main__':
+    """
+        Shared queues for folder and file separation
+    """
+    from time import time
+    start = time()
 
-            print(f"==================// {current_folder} //=======================")
+    folder_queue = JoinableQueue(maxsize=5000)
+    file_queue = JoinableQueue()
 
 
-def processor():
-    global folder_queue
-    global folder_queue_size
-    global files_queue
-    global files_queue_size
-
-    while True:
-        while not files_queue.empty():
-            file_for_processing = files_queue.get()
-            files_queue_size += 1
-            print(f"processing: {file_for_processing}")
-            time.sleep(3)
-            print(f"processed {file_for_processing}")
-        else:
-            print("Queue is Empty")
+    
+    crawl_worker = CrawlerWorker('/Users/inno/Documents', folder_queue, file_queue)
+    # crawl_worker = CrawlerWorker('/Users/inno/Documents/elastic-demo/src', folder_queue, file_queue)
+    worker_process1 = Process(target=crawl_worker.run)
+    worker_process1.start()
 
 
-thread1 = threading.Thread(
-   target=crawler, args=())
-   
-thread2 = threading.Thread(
-   target=processor, args=())
 
-thread1.start()
-thread2.start()
+    # multiple process for files processing.
+    file_processor_worker1 = ProcessWorker("P1",folder_queue, file_queue)
+    worker_process2 = Process(target=file_processor_worker1.run)
+    worker_process2.start()
 
-thread1.join()
-thread2.join()
-   
+
+    file_processor_worker2 = ProcessWorker("P2",folder_queue, file_queue)
+    worker_process3 = Process(target=file_processor_worker2.run)
+    worker_process3.start()
+
+
+
+    # Wait for all items to be processed
+    # folder_queue.join()
+    # file_queue.join()
+
+    # All items have been processed
+
+
+    worker_process1.join()
+    worker_process2.join()
+    worker_process3.join()
+
+
+
+    elapsed = time() - start
+    
+    print ("took {} time to finish".format(elapsed))
